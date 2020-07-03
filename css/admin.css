@@ -1,0 +1,24 @@
+#add_tour form p{
+display: inline-block;
+	width: 100px;
+padding-top:10px;
+}
+
+
+.available_tours , .button_tour{
+	margin: 2%;
+
+}
+
+#add_tour,#add_land,#add_type,#change_land,#change_tour,#change_type,#change_razm,#add_razm,#add_city,#change_city,#add_hotel,#change_hotel{
+	margin-left: 3%;
+	display: none;
+}
+
+#div_tour,#div_city,#div_land,#div_hotel,#div_type_tour,#div_type_razm{
+	display: none;
+}
+
+.admin{
+	text-align: center;
+}
