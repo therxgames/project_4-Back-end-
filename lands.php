@@ -17,7 +17,7 @@
 
 
 	<?php 
-	require_once "/blocks/header.php";
+	require_once "blocks/header.php";
 
 	function dump($what){
 	echo '<pre>';print_r($what);echo '/<pre>';

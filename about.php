@@ -9,7 +9,7 @@
 </head>
 <body>
 	
-	<?php require_once "/blocks/header.php" ?>
+	<?php require_once "blocks/header.php" ?>
 
 	<div id="wrapper" class="clear">
 		<div id="text">
